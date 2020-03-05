@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[table1] (
   [column1] [datetime] NOT NULL,
-  [column1] [datetime] NOT NULL,
+  [column12] [datetime] NOT NULL,
   CONSTRAINT [PK_table1_col] PRIMARY KEY CLUSTERED ([column1])
 )
 ON [PRIMARY]
